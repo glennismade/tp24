@@ -1,0 +1,107 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+[Nn]ode_modules/
+[Ll]og/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln.docstates
+*.dll.refresh
+*.log
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Resharper cache/temporary files
+_ReSharper*/
+
+# NuGet
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.saz
+
+# Roslyn cache files
+*.ide
+
+# ReSharper Plugin Gallery
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity
+_TeamCity*
+
+# BuildFireplace
+[Bb]uild[Ff]ireplace
+
+# Rider
+.idea/
+*.sln.iml
+*.ide
+
+# User-specific files
+*.DS_Store
+Thumbs.db
+UserPreferences.xml
+*.userprefs
